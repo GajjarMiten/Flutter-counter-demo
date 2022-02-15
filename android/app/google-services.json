@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72794748130",
+    "firebase_url": "https://mitengajjar0.firebaseio.com",
+    "project_id": "mitengajjar0",
+    "storage_bucket": "mitengajjar0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72794748130:android:23663282a4a131aacadabb",
+        "android_client_info": {
+          "package_name": "com.example.fluttercounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72794748130-78f5igq4h50va1fcfsp8gb4etmnf9u62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAEH2z_zELc6klBRQ-hobmLO2B5H0RVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72794748130-0k487sumsjm4aku2pm67fskqh5oha5fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
